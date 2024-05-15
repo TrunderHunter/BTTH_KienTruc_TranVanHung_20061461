@@ -1,4 +1,4 @@
-package Ex2;
+package ex2;
 import com.github.javaparser.ast.Node;
 public class NodeIterator {
     public interface NodeHandler {
